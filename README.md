@@ -1,4 +1,5 @@
 # Image-classification--3D-ResNets-PyTorch
+'''
 project_root/
 │
 ├── data/                    # Store your AD_Data, ASD_Data, and ICH_Data here
@@ -9,3 +10,4 @@ project_root/
 ├── train.py                 # Training loop and validation logic
 ├── evaluate.py              # Model evaluation, Confusion Matrix, and Interpretability (GradCAM)
 └── main.py                  # Entry point to run the pipeline
+'''
